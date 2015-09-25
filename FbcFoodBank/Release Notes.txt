@@ -1,0 +1,49 @@
+Bug Fixes and New Features for the FBC Food Bank Database, Version 1.0.1.0 vs. Version 1.0.0.0:
+
+
+Bug Fixes
+---------
+* Fixed some bugs dealing with updating the database, "Concurrency Violations".
+This was resolved by not allowing a contact name and the visits to be edited at the same time, without saving
+changes to the database.
+
+* Fixed a bug in selecting the date range for reports, in that the last day was not being included in the report.
+
+* Fixed a bug that could occur when certain characters are entered into the Name Search box.
+
+* Fixed a potential bug, in that if you try to import the existing database file from the location the program
+is already using, the database would be destroyed.
+
+
+New Features
+------------
+* Visits are now sorted in the grid by date in descending order, by default.
+
+* Added a confirmation prompt if adding a duplicate visit when using the "Add Visit Now" feature.
+
+* Added a confirmation prompt when a contact is deleted.
+
+* Added a confirmation prompt when one or more visits are deleted.
+
+* Added a 'Deceased' field for each contact.  When a contact is marked as deceased, they are automatically marked as 'Inactive'.
+
+* Added Edit...Add Visit Now menu item with a keyboard shortcut, Ctrl+N
+
+* Added a View...Inactive Contacts menu item.
+
+* Added an icon for the Edit...Find menu item.
+
+* Removed the tooltip from the Name Search box.
+
+* Added a "Sort by Name" option when creating reports.
+
+* Dates in the visits grid can now be edited using a calendar picker control.
+
+* The visits grid now contains the number of adults and the number of children in the household for each date visited.
+Therefore, the report will properly reflect the number of household members at the time of the visit.
+If a visit in the existing database does not specify the number of adults or number of children in the household for that date,
+it will be populated with the household members currently in the contact information.
+
+* Added a right-click menu to the visits grid to delete the selected visits.
+
+* Added a custom date range when creating a report where you can specify the start and end dates using a calendar picker control.

@@ -12,8 +12,8 @@ This is also my first project repository for GitHub, and I thought I would put i
 As of today, 09/25/15, I am actively seeking a new full-time Software Engineering position.
 
 Please visit my LinkedIn profile for more information regarding my marketable skills, abilities, and recent accomplishments here:
-https://www.linkedin.com/pub/stephen-king/88/46/5b1
+* https://www.linkedin.com/pub/stephen-king/88/46/5b1
 
 Download my resume at:
-Word - https://www.dropbox.com/s/jvoljggmfi0gn20/King%2C%20Stephen%20Rv%201e.docx?dl=0
-PDF - https://www.dropbox.com/s/jvoljggmfi0gn20/King%2C%20Stephen%20Rv%201e.docx?dl=0
+* Word - https://www.dropbox.com/s/jvoljggmfi0gn20/King%2C%20Stephen%20Rv%201e.docx?dl=0
+* PDF - https://www.dropbox.com/s/jvoljggmfi0gn20/King%2C%20Stephen%20Rv%201e.docx?dl=0

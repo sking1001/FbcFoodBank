@@ -4,7 +4,7 @@ This is totally free project that I did for the First Baptist Church Food Bank i
 
 I used it as a learning exercise for utilizing MS Access databases from C#.  They had a need for reporting capabilities, so I leverage Crystal Reports for that purpose.  This project was accepted by the Cushing chapter Food Bank, but is now highly envied by other Food Bank chapters.
 
-I have not had an opportunity to practice much database access within my current responsibilites at DCA, Inc.  I did this project back in 2007, and I've been at DCA for more than 24 years since 1991.  This database application has been in constant use by the Cushing Food Bank chaper since its inception in 2007.  I have not had any requests for modifications, and if I were to do so, I would have to refresh my memory on MS Access and Crystal Reports.
+I have not had an opportunity to practice much database access within my current responsibilites at DCA, Inc.  I did this project back in 2007, and I've been at DCA for more than 24 years since 1991.  This database application has been in constant use by the Cushing Food Bank chapter since its inception in 2007.  I have not had any requests for modifications, and if I were to do so, I would have to refresh my memory on MS Access and Crystal Reports.
 
 This is also my first project repository for GitHub, and I thought I would put it here to showcase DB practices I have learned in the past that I do not actively practice.
 
